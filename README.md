@@ -23,7 +23,9 @@ A simple Smart Todo application built using HTML, CSS, and JavaScript.
 
 ## Screenshot
 
-(Add your screenshot here)
+<img width="1287" height="684" alt="image" src="https://github.com/user-attachments/assets/4935248d-701d-45b3-80f6-51e2c753336e" />
+
+
 
 ## Author
 
