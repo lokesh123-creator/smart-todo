@@ -1,0 +1,35 @@
+ body {
+        margin-top: 50px;
+        justify-content: center;
+        text-align: center;
+    }
+    body input {
+        width: 200px;
+        padding: 15px;
+        border-radius: 8px;
+    }
+    button {
+        padding: 10px 30px;
+        margin-top: 10px;
+        border-radius: 8px;
+    }
+    .completed  {
+        text-decoration: line-through;
+        color: gray;
+
+    }
+    #container {
+        display: flex;
+        justify-content: center;
+    }
+    #right-container {
+        border: 2px solid black;
+        margin-left: 10px;
+        border-radius: 8px;
+        padding: 10px 20px;
+    
+
+    }
+    #right-counter, p{
+        font-weight: bold;
+    }
